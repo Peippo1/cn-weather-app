@@ -1,6 +1,6 @@
 # Search for the weather of any city in the world.
 
-location is drawn usung a weather API.
+location is drawn using a weather API.
 
 Created using react and pair programmed.
 
